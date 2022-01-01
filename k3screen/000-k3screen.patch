@@ -14,10 +14,3 @@ diff -Nuar a/src/infocenter.c b/src/infocenter.c
  }
  
  BASIC_INFO g_basic_info;
-@@ -293,4 +294,4 @@
-     print_wan_info(&g_wan_info);
-     print_port_info(&g_port_info);
-     print_host_info(g_host_info_array, g_host_info_elements);
--}
-\ No newline at end of file
-+}
